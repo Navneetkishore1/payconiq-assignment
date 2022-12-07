@@ -28,3 +28,16 @@ Command to start after build (on port 8080):
     java -jar target/payconiq-assignment-1.0.jar
     
 Or from eclipse run the Application.java file which contains main method with option java application
+
+App can be run through docker
+Please go through the Dockerfile
+Download docker and run below commands to build and run app on the docker on project directory
+
+docker build -t marco/pay:1.0-SNAPSHOT . 
+docker run -d -p 8080:8080 marco/pay:1.0-SNAPSHOT                                              
+
+
+
+
+
+   
