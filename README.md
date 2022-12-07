@@ -34,6 +34,7 @@ Please go through the Dockerfile
 Download docker and run below commands to build and run app on the docker on project directory
 
 docker build -t marco/pay:1.0-SNAPSHOT . 
+
 docker run -d -p 8080:8080 marco/pay:1.0-SNAPSHOT                                              
 
 
