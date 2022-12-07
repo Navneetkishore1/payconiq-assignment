@@ -1,0 +1,16 @@
+net\payconiq\stocks\exception\StockNotFoundException.class
+net\payconiq\stocks\service\StockService.class
+net\payconiq\stocks\exception\IncorrectRequestException.class
+net\payconiq\stocks\model\Stock.class
+net\payconiq\stocks\Application.class
+net\payconiq\stocks\repository\PriceHistoryRepository.class
+net\payconiq\stocks\service\StockDeleteService.class
+net\payconiq\stocks\request\PriceUpdateRequest.class
+net\payconiq\stocks\exception\StockAlreadyExistsException.class
+net\payconiq\stocks\controller\StockController.class
+net\payconiq\stocks\model\StockPriceHistory.class
+net\payconiq\stocks\config\SwaggerConfig.class
+net\payconiq\stocks\repository\StockRepository.class
+net\payconiq\stocks\request\NewStockRequest.class
+net\payconiq\stocks\service\PriceHistoryService.class
+net\payconiq\stocks\controller\AppErrorController.class

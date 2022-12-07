@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 18
+Implementation-Title: payconiq-assignment
+Implementation-Version: 1.0
+Main-Class: net.payconiq.stocks.Application
+Created-By: Maven Integration for Eclipse
+
