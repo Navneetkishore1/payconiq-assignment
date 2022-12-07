@@ -26,3 +26,5 @@ Or if you want to skip tests:
 Command to start after build (on port 8080):
 
     java -jar target/payconiq-assignment-1.0.jar
+    
+Or from eclipse run the Application.java file which contains main method with option java application
