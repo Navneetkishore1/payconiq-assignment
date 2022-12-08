@@ -9,6 +9,7 @@ EndPoints ::
     GET /api/stocks/{id}/history - To get price history for stock by id
     PATCH /api/stocks/{id} - To update particular stock price.
     POST /api/stocks - Add new Stock to application
+    DELETE /api/stocks/{id} - Delete the stock by id
    
 
 How to build and start server
